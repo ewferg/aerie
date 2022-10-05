@@ -8,7 +8,9 @@
     <a href="https://lgtm.com/projects/g/NASA-AMMOS/aerie/context:java" target="_blank">
         <img alt="Language Grade" src="https://img.shields.io/lgtm/grade/java/g/NASA-AMMOS/aerie.svg?logo=lgtm&logoWidth=18">
     </a>
-
+    <a href="https://github.com/NASA-AMMOS/aerie/releases/latest" target="_blank">
+        <img alt="Release Version" src="https://img.shields.io/github/v/release/NASA-AMMOS/aerie">
+    </a>
 </p>
 
 
