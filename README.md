@@ -1,5 +1,16 @@
-![publish](https://github.com/NASA-AMMOS/aerie/actions/workflows/publish.yml/badge.svg)
-[![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/NASA-AMMOS/aerie.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/NASA-AMMOS/aerie/context:java)
+<p align="center">
+    <a href="LICENSE" target="_blank">
+        <img alt="Software License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square">
+    </a>
+    <a href="https://github.com/NASA-AMMOS/aerie/actions/workflows/publish.yml" target="_blank">
+        <img alt="Publish Status" src="https://github.com/NASA-AMMOS/aerie/actions/workflows/publish.yml/badge.svg">
+    </a>
+    <a href="https://lgtm.com/projects/g/NASA-AMMOS/aerie/context:java" target="_blank">
+        <img alt="Language Grade" src="https://img.shields.io/lgtm/grade/java/g/NASA-AMMOS/aerie.svg?logo=lgtm&logoWidth=18">
+    </a>
+
+</p>
+
 
 # Aerie
 
